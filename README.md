@@ -7,4 +7,5 @@ vue学习笔记
 4：scss样式使用(样式变量，mixin宏、 @include)
 5:vuex（store结合mutations做组件通信，和state管理）
 6:路由拦截
-7:localStorge保存  
+7:localStorge保存  
+8：vuex+localStorge下单商品保存
