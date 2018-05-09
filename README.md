@@ -10,3 +10,4 @@ vue学习笔记
 7:localStorge保存  
 8：vuex+localStorge下单商品保存
 9:productionSourceMap: true
+10.自定义指令
