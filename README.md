@@ -12,3 +12,4 @@ vue学习笔记
 9:productionSourceMap: true
 10.自定义指令
 11。自动化打包
+12,promise
