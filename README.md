@@ -16,3 +16,4 @@ vue学习笔记
 13.nuxt.js
 14，组件填充数据必须在asyncData里面执行
 15。性能 https://www.cnblogs.com/tiedaweishao/p/6644267.html
+16:https://zcfy.cc/article/creating-server-side-rendered-vue-js-apps-with-nuxt-js
