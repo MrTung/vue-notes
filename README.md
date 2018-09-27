@@ -19,3 +19,4 @@ vue学习笔记
 16:https://zcfy.cc/article/creating-server-side-rendered-vue-js-apps-with-nuxt-js
 17：generate静态化
 18:部署
+19:改版参考：京东https://aotu.io/notes/2016/12/26/jd-index-2016-summary/#%E6%95%B4%E4%BD%93%E6%9E%B6%E6%9E%84
